@@ -2,6 +2,10 @@
 
 Semantic Category-Guided Next-Token Selection is an inference-time decoding postprocessing method. It combines semantic categories, input-token attention, and candidate probabilities to adjust next-token selection while preserving model weights and the original predicted probabilities.
 
+## Project showcase
+
+For an overview and demonstration, see [Beyond the Top Token](https://github.com/caotangkiss/pai-semantic-category-selection), the companion showcase repository with an interactive replay of five recorded GPT-2 examples, a narrated demo video, and a project summary.
+
 <a id="existing-models-and-remote-execution"></a>
 
 ## Quick start
